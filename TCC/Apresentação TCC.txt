@@ -1,0 +1,18 @@
+
+
+
+
+1- Segurança
+
+	Servidor na nuvem, Backup, Fire Wall na rede, antivírus atualizado  
+
+2- Sobre o Sistema
+ 
+ . É para transportadora de pequeno porte
+ .
+
+
+ 
+3-Diagrama de caso de uso   -   Douglas   *******PRONTO*********
+4-Diagrama de Classe   -   Ênio   *******PRONTO*********
+5-Telas Print Screen   -   Robson   a fazer

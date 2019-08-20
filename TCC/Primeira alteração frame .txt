@@ -1,0 +1,10 @@
+1 - Frame *funcionário* acrescentar campo sexo e estado civil "Diminuir o tamanho da fonte.
+2 - Frame *Cadastro de veículos* acrescentar campo "quantidade de eixos", acrescentar campo medida do pneu veículo, acrescentar o tipo de combustível, pensar se acrescenta potência de motor ou não.
+3 - Frame *Cadastro de Fornecedor* acrescentar a segmentação do fornecedor, alterar o título do frame para Cad. Fornecedor, 
+4 - Frame *Cadastro de clientes* acrescentar o botão cosulta de clientes que vai chamar tabela com a lista de todos os clientes, acrescentar o segmento do cliente.
+5 - Frame *Destinatário* Acrescentar o ponto de referência,
+6 - Frame *Detalhe da mercadoria* , excluir frame,
+7 - Frame *Ordem de entrega* passará a gerar o cadastro através de nota fiscal e automatizar o tipo de mercadoria para o tipo de veículo. 
+8 - Frame *Manutenção do veículo* Criar categoria do reparo "Mecânica, elétrica, Lataria, interior".
+
+	Frame *Frete* Criar um freme com a baixa da entrega da mercadoria e a liberação da mercadoria do nome do entregador. 
